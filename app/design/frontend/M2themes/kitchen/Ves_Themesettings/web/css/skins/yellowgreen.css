@@ -1,0 +1,115 @@
+
+.minicart-wrapper .actions a:hover, .product-reviews-summary .reviews-actions a:hover, 
+.ves-menutop .ves-megamenu li.level0.active > a, .ves-menutop .ves-megamenu li.level0:hover > a,
+.product-info-main .price-box .price-wrapper .price, .vertical-menu .ves-vertical li.level0 > a:hover,
+.widget-menu .ves-vertical li.level0 > a:hover, .page-header .header-links-options a:hover, .nav-toggle:hover::before,
+.product-block .product-image .product-item-actions .actions-secondary > a:hover, 
+.product-block .product-image .product-item-actions .actions-secondary > a:focus,
+.product.info.detailed .product.data.items > .item.title.active > .switch,
+.header7 .minicart-wrapper .action.showcart:hover::before, .header7 .minicart-wrapper .action.showcart.active::before,
+.page-footer ul.list-social li a:hover, .ves-menutop .ves-megamenu .dropdown-menu .nav-item > a:hover
+{
+  color: #9acd32!important;
+}
+.blog-posts .owl-carousel .post-date, .copyright span, .page-wrapper .infom .email,
+.ourservice-block .pull-left, .block.tmls-widget::before,
+.vesblog-category-view .post-date, .ves-bloglatest .post-date, .widget-images .image-description .social li a:hover, 
+.widget-accordion .panel-default > .panel-heading .panel-title a::before,
+.account .columns .column.main a, .page-header .custom-links ul li a:hover,
+.block-primary .widget-images .image-description h3 a:hover, .page-header .setting-links-dropdown li a:hover,
+.page-header .call-us span, .ves-menutop .ves-megamenu .caret::after,
+.minicart-wrapper .action.showcart .cart-title, .ves-autosearch .search_box .button-search:hover,
+.page-wrapper .ves-vertical.menu-click .nav-item.level0 > a, .sidebar .block.filter .filter-options .filter-options-title,
+.list.products-list a.more:hover, .productlist-widget ul.etabs li a:hover, .productlist-widget ul.etabs li a.active,
+.page-wrapper .ves-vertical .dropdown-menu .nav-item > a:hover, .page-wrapper .ves-vertical .dropdown-menu a:hover
+{color: #9acd32;}
+
+.product-info-main .price-box .price-including-tax + .price-excluding-tax .price, 
+.product-options-bottom .price-box .price-including-tax + .price-excluding-tax .price, 
+.product-info-main .price-box .weee + .price-excluding-tax .price, 
+.product-options-bottom .price-box .weee + .price-excluding-tax .price, 
+.product-info-main .price-box .weee .price, .product-options-bottom .price-box .weee .price, 
+.ves-menu .ves-vertical li.level0:hover > a, .footer-top .nav-links li a:hover, 
+body .page-wrapper a:hover, body .page-wrapper .alink:hover,
+.product-info-main .product-info-stock-sku .stock.available, .product-info-main .product-info-stock-sku .stock.unavailable,
+.product-block .product-item-details .price-box .price, .product-block .actions-primary .add-to-cart i,
+.minicart-wrapper .block-minicart .minicart-items .product-item-details .price, .page-main > .page-title-wrapper .page-title,
+.checkout-cart-index .price-including-tax .price, .checkout-cart-index .price-excluding-tax .price,
+.product-info-main .product-info-stock-sku .product.attibute.sku, .page-header .promotion-top em, .page-header .promotion-top .fa,
+.page-wrapper .ves-vertical li.level0:hover > a::before, .ves-autosearch .search_box .category_filter span
+{
+  color: #9acd32; 
+}
+
+.page-header .block-header2 span, .ves-menutop .ves-megamenu .dynamic-items li a:hover,
+.ves-menutop .ves-megamenu .products-widget .owl-nav a:hover,
+.page-wrapper .widget-carousel.widget-carousel-v2 .slider-content span, 
+.page-wrapper .widget-carousel.widget-carousel-v2 .slider-content i{color: #9acd32;}
+
+.page-wrapper .owl-carousel .owl-dots .owl-dot.active span, 
+.page-wrapper .owl-carousel .owl-dots .owl-dot:hover span, .product-info-main .box-tocart .action.tocart, 
+.bundle-options-container .box-tocart .action.tocart, .product-add-form .box-tocart .action.tocart,
+.page-wrapper .columns .owl-carousel .owl-nav [class*="owl-"]:hover, .page-wrapper .columns .owl-carousel .owl-nav [class*="owl-"]:focus
+{
+  background: #9acd32!important;
+}
+.block.tags li a:hover, .ves-block .tagcloud li a:hover, .tags-link li a:hover, 
+.product-info-main .product-addto-links a:hover, .bundle-options-container .product-addto-links a:hover, 
+.product-add-form .product-addto-links a:hover, .review-form .action.submit.primary,
+.page-wrapper .widget-carousel .slider-content .btn,
+.block-primary.productlist-widget ul.etabs li a:hover::after, .block-primary.productlist-widget ul.etabs li a.active::after,
+.block .block-title::before, .newsletter-v1 .newsletter-content, .page-header #ves-header.header5{
+  background: #9acd32;
+}
+
+.page-header #ves-header.header3 .ves-menutop .ves-megamenu, .ourservice-v1,
+.page-wrapper .widget-carousel.widget-carousel-v2 .item-content:hover .slider-content,
+.block.newsletter .action.subscribe{background: #9acd32;}
+
+.scrollup, .fancybox-skin .action_button .button:hover, .checkout-index-index .minicart-wrapper .action.showcart .counter.qty,
+.ves-menutop .ves-megamenu li.level0 > a::after, .minicart-wrapper .w-item .total-qty,
+.product-block .actions-primary .add-to-cart:hover, .product-block .actions-primary .add-to-cart:focus,
+ul.list-social li a:hover, .widget-html .btn:hover,
+.page-wrapper .widget-carousel .slider-content .btn.btn-white:hover, .vertical-menu
+{
+  background-color: #9acd32;
+}
+
+._keyfocus *:focus, input:focus:not([disabled]), textarea:focus:not([disabled]), select:focus:not([disabled]){
+  box-shadow: 0 0 3px 1px #9acd32;
+}
+.product.media .fotorama__thumb-border, .review-form .action.submit.primary, 
+.product-block .product-image .product-item-actions .actions-secondary > a:hover, 
+.product-block .product-image .product-item-actions .actions-secondary > a:focus, 
+.vertical-menu .ves-vertical, .page-header .header-content, .block-success .block-content,
+.ves-menutop .ves-megamenu .dropdown-menu, .ves-menutop .ves-megamenu .products-widget .owl-nav a:hover{
+  border-color: #9acd32;
+}
+.page-header #ves-header.header7 .vertical-menu::after,
+.page-wrapper .widget-carousel.widget-carousel-v2 .slider-content::before{border-bottom-color: #9acd32;}
+.action.primary{
+    background: #9acd32;
+    border-color: #9acd32;
+    color: #fff;
+}
+
+body .page-wrapper ._keyfocus *:focus, body .page-wrapper input:focus:not([disabled]), 
+body .page-wrapper textarea:focus:not([disabled]), 
+body .page-wrapper select:focus:not([disabled]){
+  box-shadow: 0 0 3px 1px #9acd32;
+}
+
+.minicart-wrapper .w-item .total-qty::before{border-right-color: #9acd32;}
+.rtl .minicart-wrapper .w-item .total-qty::before{border-right: 0; border-left: 4px solid #9acd32;}
+
+.page-header #ves-header.header5 .vertical-menu, .page-header #ves-header.header5 .page-topbar, 
+.page-header #ves-header.header5 .minicart-wrapper .w-item .total-qty{background: #80b318;}
+.page-header #ves-header.header5 .header-bottom{background: #a7da3f;}
+.page-header #ves-header.header5 .minicart-wrapper .w-item .total-qty::before{border-right-color: #80b318;}
+.rtl .page-header #ves-header.header5 .minicart-wrapper .w-item .total-qty::before{border-right: 0; border-left: 4px solid #80b318;}
+
+@media (max-width: 991px) {
+  .product-block .product-item-info .product-image .product-item-actions .actions-secondary > a{
+    background: #9acd32;
+  }
+}

@@ -1,0 +1,11 @@
+/* Custom css */
+.single-line-name .product-name, .single-line-name .product-item-name, .single-line-name .product.name  {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.single-line-name:hover .product-name, .single-line-name:focus .product-name, .single-line-name:hover .product-item-name, .single-line-name:focus .product-item-name,.single-line-name:hover .product.name, .single-line-name:focus .product.name {
+  overflow: visible;
+  white-space: normal;
+}

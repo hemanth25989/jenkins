@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Webapi:etc/webapi.xsd">
+	<route url="/V1/developer/:team_id" method="GET">
+		<service class="Webkul\Grid\Api\GridInterface" method="content"/>
+		<resources>
+			<resource ref="anonymous"/>
+		</resources>
+	</route>
+	<route url="/V1/team/:team_id" method="GET">
+		<service class="Webkul\Grid\Api\TeamInterface" method="content"/>
+		<resources>
+			<resource ref="anonymous"/>
+		</resources>
+	</route>
+	<route url="/V1/teamfulldetails/" method="GET">
+		<service class="Webkul\Grid\Api\TeamInterface" method="getTeamFullDetails"/>
+		<resources>
+			<resource ref="anonymous"/>
+		</resources>
+	</route>
+</routes>

@@ -1,0 +1,29 @@
+<?php
+/**
+ * Copyright © 2015 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+// @codingStandardsIgnoreFile
+
+?>
+<?php
+$id = $block->getIdModifier() ? '-' . $block->getIdModifier() : '';
+?>
+
+<div class="setting-links">
+    <div class="actions options setting-links-options">
+      
+      	<div class="switcher-language-wrapper pull-left">
+            <?php echo $this->getChildHtml('store_language_custom') ?>
+        </div>
+        <div class="switcher-currency-wrapper pull-left">
+            <?php echo $this->getChildHtml('currency_custom') ?>
+        </div>
+        
+    </div>
+</div>
+
+
+
+

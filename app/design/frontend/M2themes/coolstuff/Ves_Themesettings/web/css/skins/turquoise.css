@@ -1,0 +1,88 @@
+
+.minicart-wrapper .actions a:hover, .product-reviews-summary .reviews-actions a:hover, 
+.ves-menutop .ves-megamenu li.level0.active > a, .ves-menutop .ves-megamenu li.level0:hover > a,
+.product-info-main .price-box .price-wrapper .price, .vertical-menu .ves-vertical li.level0 > a:hover,
+.widget-menu .ves-vertical li.level0 > a:hover, .page-header .header-links-options a:hover, .nav-toggle:hover::before,
+.minicart-wrapper .action.showcart:hover::before, .minicart-wrapper .action.showcart.active::before
+{
+  color: #4ACFD4!important;
+}
+.blog-posts .owl-carousel .post-date, .copyright span, .page-wrapper .infom .email,
+.ourservice-block .pull-left, .block.tmls-widget::before,
+.vesblog-category-view .post-date, .ves-bloglatest .post-date, .widget-images .image-description .social li a:hover, 
+.widget-accordion .panel-default > .panel-heading .panel-title a::before,
+.account .columns .column.main a, .page-header .custom-links ul li a:hover,
+.block-primary .widget-images .image-description h3 a:hover, .page-header .setting-links-dropdown li a:hover,
+.page-header .call-us span, .ves-menutop .ves-megamenu .caret::after,
+.product-block .actions-primary .add-to-cart:hover, .product-block .actions-primary .add-to-cart:focus, 
+.list.products-list a.more:hover, .widget-html.html-v1 .item .fa
+{color: #4ACFD4;}
+
+.product-info-main .price-box .price-including-tax + .price-excluding-tax .price, 
+.product-options-bottom .price-box .price-including-tax + .price-excluding-tax .price, 
+.product-info-main .price-box .weee + .price-excluding-tax .price, 
+.product-options-bottom .price-box .weee + .price-excluding-tax .price,
+.product-info-main .price-box .weee .price, .product-options-bottom .price-box .weee .price, 
+.ves-menu .ves-vertical li.level0:hover > a, .footer-top .nav-links li a:hover, 
+body .page-wrapper a:hover, body .page-wrapper .alink:hover,
+.product-info-main .product-info-stock-sku .stock.available, .product-info-main .product-info-stock-sku .stock.unavailable,
+.product-block .product-item-details .price-box .special-price .price,
+.minicart-wrapper .block-minicart .minicart-items .product-item-details .price, .page-main > .page-title-wrapper .page-title,
+.checkout-cart-index .price-including-tax .price, .checkout-cart-index .price-excluding-tax .price,
+.product-info-main .product-info-stock-sku .product.attibute.sku, .page-header .promotion-top em, .page-header .promotion-top .fa
+{
+  color: #4ACFD4; 
+}
+.page-wrapper .owl-carousel .owl-dots .owl-dot.active span, 
+.page-wrapper .owl-carousel .owl-dots .owl-dot:hover span,
+.bundle-options-container .box-tocart .action.tocart, .product-add-form .box-tocart .action.tocart:hover,
+.product-block .product-image .product-item-actions .actions-secondary > a:hover, 
+.product-block .product-image .product-item-actions .actions-secondary > a:focus,
+.product-block .product-image .product-item-actions .add-to-cart:hover,
+.page-wrapper .widget-carousel .owl-nav .owl-prev:hover, .page-wrapper .widget-carousel .owl-nav .owl-next:hover
+{
+  background: #4ACFD4!important; 
+}
+.block.tags li a:hover, .ves-block .tagcloud li a:hover, .tags-link li a:hover,
+.product-info-main .product-addto-links .add-to-wishlist:hover, 
+.bundle-options-container .product-addto-links .add-to-wishlist:hover, .product-add-form .product-addto-links .add-to-wishlist:hover, 
+.product-info-main .product-addto-links .add-to-compare:hover, .bundle-options-container .product-addto-links .add-to-compare:hover, 
+.product-add-form .product-addto-links .add-to-compare:hover, .review-form .action.submit.primary, 
+.page-wrapper .widget-carousel .slider-content .btn, .ves-menutop .ves-megamenu .dropdown-menu .nav-item > a:hover,
+.product-info-main .add-action:hover, .bundle-options-container .add-action:hover, .product-add-form .add-action:hover{
+  background: #4ACFD4;
+}
+
+.scrollup, .fancybox-skin .action_button .button:hover, .checkout-index-index .minicart-wrapper .action.showcart .counter.qty,
+.ves-menutop .ves-megamenu li.level0 > a::after, .page-wrapper .btn:hover,
+ul.list-social li a:hover, .ves-autosearch .search_box .button-search,
+.ves-menutop .ves-megamenu .dynamic-items li a:hover, .widget-html .btn:hover,
+.page-wrapper .widget-carousel .slider-content .btn.btn-white:hover
+{
+  background-color: #4ACFD4;
+}
+
+._keyfocus *:focus, input:focus:not([disabled]), textarea:focus:not([disabled]), select:focus:not([disabled]){
+  box-shadow: 0 0 3px 1px #4ACFD4;
+}
+.product.media .fotorama__thumb-border,
+.review-form .action.submit.primary{
+  border-color: #4ACFD4;
+}
+.action.primary{
+    background: #4ACFD4;
+    border-color: #4ACFD4;
+    color: #fff;
+}
+.block.newsletter .action.subscribe{background: #4ACFD4;}
+
+body .page-wrapper ._keyfocus *:focus, body .page-wrapper input:focus:not([disabled]), 
+body .page-wrapper textarea:focus:not([disabled]), 
+body .page-wrapper select:focus:not([disabled]){
+  box-shadow: 0 0 3px 1px #4ACFD4;
+}
+@media (max-width: 991px) {
+  .product-block .product-image .product-item-actions .actions-secondary > a{
+    background: #4ACFD4;
+  }
+}

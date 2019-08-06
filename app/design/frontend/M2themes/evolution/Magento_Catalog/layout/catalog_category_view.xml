@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2015 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../../../lib/internal/Magento/Framework/View/Layout/etc/page_configuration.xsd">
+	<body>
+		<referenceBlock name="page.main.title" template="Magento_Catalog::category/title.phtml"/>
+        <referenceContainer name="page.wrapper">
+            <container name="category.view.container" htmlTag="div" htmlClass="category-view" after="header_container">
+                <block class="Magento\Catalog\Block\Category\View" name="category.image" template="Magento_Catalog::category/image.phtml"/>
+                <block class="Magento\Catalog\Block\Category\View" name="category.description" template="Magento_Catalog::category/description.phtml"/>
+            </container>
+        </referenceContainer>
+		<referenceContainer name="sidebar.main">
+        	<block class="Magento\Cms\Block\Block" name="sidebar-products" after="-">
+                <arguments>
+                    <argument name="block_id" xsi:type="string">sidebar-tag</argument>
+                </arguments>
+            </block>
+        </referenceContainer>
+        <referenceContainer name="sidebar.additional">
+            <block class="Magento\Cms\Block\Block" name="sidebar-banner" after="-">
+                <arguments>
+                    <argument name="block_id" xsi:type="string">sidebar-banner</argument>
+                </arguments>
+            </block>
+        </referenceContainer>
+        <referenceContainer name="page.bottom">
+            <block class="Magento\Cms\Block\Block" name="categories-bottom" after="-">
+                <arguments>
+                    <argument name="block_id" xsi:type="string">block-categories-bottom</argument>
+                </arguments>
+            </block>
+        </referenceContainer>
+        
+	</body>
+</page>
+
